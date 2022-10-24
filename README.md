@@ -18,4 +18,4 @@ Sudah dibuat dengan fitur Sidebar dan Pop Up Form dengan Modal pada bootstrap, a
 
 ## Screenshot / Tampilan Program
 - (Coming Soon)
-### Jika ada Bug atau Error, tidak perlu segan untuk melapor
+Jika ada Bug atau Error, tidak perlu segan untuk melapor
