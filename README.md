@@ -16,4 +16,6 @@ Sudah dibuat dengan fitur Sidebar dan Pop Up Form dengan Modal pada bootstrap, a
 - Pindahkan semua file termasuk folder `css` dan `js` ke htdocs
 - Akses Program [Disini](http://localhost/weightedproduct/)
 
-## Screenshot / Tampilan Program (Coming Soon)
+## Screenshot / Tampilan Program
+- (Coming Soon)
+### Jika ada Bug atau Error, tidak perlu segan untuk melapor
